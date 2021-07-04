@@ -11,5 +11,6 @@ public class ApiImplA implements Api
     public void test1(String s)
     {
         System.out.println("这是测试A，内容是:" + s);
+        System.out.println("这是测试A修改一下push一下，内容是:" + s);
     }
 }
