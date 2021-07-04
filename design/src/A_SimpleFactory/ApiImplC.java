@@ -11,5 +11,6 @@ public class ApiImplC implements Api
     public void test1(String s)
     {
         System.out.println("这是测试C，内容是:" + s);
+        System.out.println("这是测试C,推送，内容是:" + s);
     }
 }
