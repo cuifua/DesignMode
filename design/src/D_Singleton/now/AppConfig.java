@@ -39,7 +39,7 @@ public class AppConfig
         return parameterB;
     }
 
-    //私有化构造方法
+    //私有化构造方法 test
     private AppConfig()
     {
         readConfig();//调用读取配置文件的方法
