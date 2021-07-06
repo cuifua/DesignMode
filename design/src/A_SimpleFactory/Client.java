@@ -11,5 +11,7 @@ public class Client
     {
         Api api = SimpleFactory.creatApi();
         api.test1("我被创造出来了！！");
+
+        System.out.println("============gitHub==========");
     }
 }
